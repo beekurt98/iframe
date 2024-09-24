@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
 
-URL = "https://beekurt98.github.io/iframe/"
+URL = "https://beekurt98.github.io/iframe-tutorial-selenium/"
 
 driver = webdriver.Chrome()
 
