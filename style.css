@@ -1,0 +1,38 @@
+iframe {
+    width: 75%;
+    height: 500px;
+    border: 1px solid #d1d1d1;
+}
+
+iframe:hover{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+
+}
+
+.container {
+    margin: auto;
+    padding: 1%;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 75%;
+    margin-top: 5%;
+    padding-bottom: 5%;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+body {
+    font-family: verdana;
+    text-align: center;
+}
+.button {
+    margin-top: 5%;
+    padding: 10px;
+    border: 2px outset;
+    text-decoration: none; 
+    color: black;
+    font-weight: bold;
+    border-radius: 5px;
+} 
